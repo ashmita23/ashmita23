@@ -1,1 +1,1 @@
-- 👋 Hi, I’m a Data Science grad student at UChicago interested in Generative AI, building LLM solutions and ML algorithms!
+- 👋 Hi, I’m a Data Science grad student at UChicago interested in Generative AI, building LLM and ML solutions!
