@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @ashmita23
-- 👀 I’m interested in machine learning
+- 👋 Hi, I’m a Data Science grad student at UChicago interested in Generative AI, building LLM solutions and ML algorithms!
